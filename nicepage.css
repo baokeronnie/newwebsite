@@ -42753,7 +42753,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: linear-gradient(#e5e5e5, white);
+  background-image: linear-gradient(#666666, white);
 }
 
 .u-header .u-sheet-1 {
@@ -42798,8 +42798,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
+  font-weight: 400;
   font-style: italic;
+  font-size: 1rem;
 }
 
 .u-header .u-nav-2 {
